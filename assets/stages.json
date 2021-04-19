@@ -1,0 +1,2508 @@
+[
+    {
+        "coordinates": {
+            "latitude": 51.8125626,
+            "longitude": 5.8372264
+        },
+        "type": "Point",
+        "description": {
+            "distance": "5,4",
+            "info": "Paved,mostly flat, steep hill",
+            "stage": 1,
+            "gender": "Male"
+        },
+        "name": "Stage 1 "
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8126488,
+                "longitude": 5.8372611
+            },
+            {
+                "latitude": 51.8126987,
+                "longitude": 5.8369584
+            },
+            {
+                "latitude": 51.8129507,
+                "longitude": 5.8356495
+            },
+            {
+                "latitude": 51.8132824,
+                "longitude": 5.835156
+            },
+            {
+                "latitude": 51.8150846,
+                "longitude": 5.8385023
+            },
+            {
+                "latitude": 51.8199394,
+                "longitude": 5.8455405
+            },
+            {
+                "latitude": 51.8204965,
+                "longitude": 5.8463988
+            },
+            {
+                "latitude": 51.8201251,
+                "longitude": 5.8474287
+            },
+            {
+                "latitude": 51.8196476,
+                "longitude": 5.8501753
+            },
+            {
+                "latitude": 51.8191436,
+                "longitude": 5.8554968
+            },
+            {
+                "latitude": 51.821027,
+                "longitude": 5.8562693
+            },
+            {
+                "latitude": 51.8206557,
+                "longitude": 5.8608612
+            },
+            {
+                "latitude": 51.8203108,
+                "longitude": 5.8628353
+            },
+            {
+                "latitude": 51.8202843,
+                "longitude": 5.8644232
+            },
+            {
+                "latitude": 51.8200721,
+                "longitude": 5.8666548
+            },
+            {
+                "latitude": 51.8189048,
+                "longitude": 5.8669981
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "5,4",
+            "info": "Paved,mostly flat, steep hill",
+            "stage": 1,
+            "gender": "Male"
+        },
+        "name": "Stage 1 route"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8185272,
+            "longitude": 5.8674126
+        },
+        "type": "Point",
+        "description": {
+            "distance": "6,7",
+            "info": "Ascending and strongly descending, paved",
+            "stage": 2,
+            "gender": "Male"
+        },
+        "name": "Stage 2 \n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.82713,
+            "longitude": 5.9422914
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,6",
+            "info": "Flat, paved",
+            "stage": 3,
+            "gender": "Male"
+        },
+        "name": "Stage 3 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8189048,
+                "longitude": 5.8669981
+            },
+            {
+                "latitude": 51.816475,
+                "longitude": 5.8670693
+            },
+            {
+                "latitude": 51.8170586,
+                "longitude": 5.8716183
+            },
+            {
+                "latitude": 51.8208256,
+                "longitude": 5.8808022
+            },
+            {
+                "latitude": 51.8214092,
+                "longitude": 5.8838921
+            },
+            {
+                "latitude": 51.8236904,
+                "longitude": 5.8894711
+            },
+            {
+                "latitude": 51.8291012,
+                "longitude": 5.8941059
+            },
+            {
+                "latitude": 51.8274038,
+                "longitude": 5.9013157
+            },
+            {
+                "latitude": 51.8275099,
+                "longitude": 5.9040623
+            },
+            {
+                "latitude": 51.825388,
+                "longitude": 5.9120446
+            },
+            {
+                "latitude": 51.820242,
+                "longitude": 5.9202843
+            },
+            {
+                "latitude": 51.8227885,
+                "longitude": 5.9220009
+            },
+            {
+                "latitude": 51.8244331,
+                "longitude": 5.9230309
+            },
+            {
+                "latitude": 51.8273507,
+                "longitude": 5.9262066
+            },
+            {
+                "latitude": 51.826555,
+                "longitude": 5.9280091
+            },
+            {
+                "latitude": 51.8279342,
+                "longitude": 5.9273224
+            },
+            {
+                "latitude": 51.8244331,
+                "longitude": 5.9388237
+            },
+            {
+                "latitude": 51.825441,
+                "longitude": 5.940197
+            },
+            {
+                "latitude": 51.82713,
+                "longitude": 5.9422914
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "6,7",
+            "info": "Ascending and strongly descending, paved",
+            "stage": 2,
+            "gender": "Male"
+        },
+        "name": "Stage 2 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8617717,
+            "longitude": 6.0388518
+        },
+        "type": "Point",
+        "description": {
+            "distance": "4,9",
+            "info": "Flat, paved",
+            "stage": 4,
+            "gender": "Female"
+        },
+        "name": "Stage 4 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.82713,
+                "longitude": 5.9422914
+            },
+            {
+                "latitude": 51.8260305,
+                "longitude": 5.9395992
+            },
+            {
+                "latitude": 51.8295846,
+                "longitude": 5.9353506
+            },
+            {
+                "latitude": 51.8312024,
+                "longitude": 5.9323465
+            },
+            {
+                "latitude": 51.8331649,
+                "longitude": 5.9271108
+            },
+            {
+                "latitude": 51.833377,
+                "longitude": 5.9252226
+            },
+            {
+                "latitude": 51.8358433,
+                "longitude": 5.9264671
+            },
+            {
+                "latitude": 51.8388397,
+                "longitude": 5.9274113
+            },
+            {
+                "latitude": 51.8379647,
+                "longitude": 5.9337627
+            },
+            {
+                "latitude": 51.8387337,
+                "longitude": 5.9389984
+            },
+            {
+                "latitude": 51.8381238,
+                "longitude": 5.9440195
+            },
+            {
+                "latitude": 51.8394496,
+                "longitude": 5.9534609
+            },
+            {
+                "latitude": 51.8391314,
+                "longitude": 5.9585249
+            },
+            {
+                "latitude": 51.8382829,
+                "longitude": 5.9614431
+            },
+            {
+                "latitude": 51.8363471,
+                "longitude": 5.964533
+            },
+            {
+                "latitude": 51.8348356,
+                "longitude": 5.9676229
+            },
+            {
+                "latitude": 51.8341461,
+                "longitude": 5.9694683
+            },
+            {
+                "latitude": 51.8343848,
+                "longitude": 5.971142
+            },
+            {
+                "latitude": 51.8349947,
+                "longitude": 5.9722578
+            },
+            {
+                "latitude": 51.8353925,
+                "longitude": 5.9760773
+            },
+            {
+                "latitude": 51.8360819,
+                "longitude": 5.9777939
+            },
+            {
+                "latitude": 51.836904,
+                "longitude": 5.9780943
+            },
+            {
+                "latitude": 51.8382298,
+                "longitude": 5.9774505
+            },
+            {
+                "latitude": 51.8386011,
+                "longitude": 5.9778797
+            },
+            {
+                "latitude": 51.8387022,
+                "longitude": 5.978631
+            },
+            {
+                "latitude": 51.8380923,
+                "longitude": 5.9840169
+            },
+            {
+                "latitude": 51.8381055,
+                "longitude": 5.9869995
+            },
+            {
+                "latitude": 51.8379199,
+                "longitude": 5.9881153
+            },
+            {
+                "latitude": 51.8377873,
+                "longitude": 5.9924926
+            },
+            {
+                "latitude": 51.8377741,
+                "longitude": 5.9938659
+            },
+            {
+                "latitude": 51.838795,
+                "longitude": 5.9979858
+            },
+            {
+                "latitude": 51.8399086,
+                "longitude": 5.9984793
+            },
+            {
+                "latitude": 51.8413272,
+                "longitude": 5.9977498
+            },
+            {
+                "latitude": 51.846325,
+                "longitude": 6.0042729
+            },
+            {
+                "latitude": 51.8510876,
+                "longitude": 6.0082949
+            },
+            {
+                "latitude": 51.8551168,
+                "longitude": 6.0149039
+            },
+            {
+                "latitude": 51.8573433,
+                "longitude": 6.0183371
+            },
+            {
+                "latitude": 51.8599938,
+                "longitude": 6.0201395
+            },
+            {
+                "latitude": 51.8594637,
+                "longitude": 6.0207403
+            },
+            {
+                "latitude": 51.8570783,
+                "longitude": 6.0286368
+            },
+            {
+                "latitude": 51.855753,
+                "longitude": 6.0304392
+            },
+            {
+                "latitude": 51.8597817,
+                "longitude": 6.0355032
+            },
+            {
+                "latitude": 51.8612194,
+                "longitude": 6.0360789
+            },
+            {
+                "latitude": 51.8610339,
+                "longitude": 6.0364222
+            },
+            {
+                "latitude": 51.8618025,
+                "longitude": 6.0369801
+            },
+            {
+                "latitude": 51.862094,
+                "longitude": 6.0373878
+            },
+            {
+                "latitude": 51.8621603,
+                "longitude": 6.0382675
+            },
+            {
+                "latitude": 51.8617717,
+                "longitude": 6.0388518
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,6",
+            "info": "Flat, paved",
+            "stage": 3,
+            "gender": "Male"
+        },
+        "name": "Stage 3 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8306166,
+            "longitude": 6.0631713
+        },
+        "type": "Point",
+        "description": {
+            "distance": "9,9",
+            "info": "Flat, paved",
+            "stage": 5,
+            "gender": "Male"
+        },
+        "name": "Stage 5 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8617717,
+                "longitude": 6.0388518
+            },
+            {
+                "latitude": 51.861961,
+                "longitude": 6.039293
+            },
+            {
+                "latitude": 51.8616165,
+                "longitude": 6.0399796
+            },
+            {
+                "latitude": 51.861802,
+                "longitude": 6.040795
+            },
+            {
+                "latitude": 51.8602913,
+                "longitude": 6.0410525
+            },
+            {
+                "latitude": 51.8585951,
+                "longitude": 6.0429408
+            },
+            {
+                "latitude": 51.858489,
+                "longitude": 6.0433699
+            },
+            {
+                "latitude": 51.8597613,
+                "longitude": 6.0460307
+            },
+            {
+                "latitude": 51.8600528,
+                "longitude": 6.0461165
+            },
+            {
+                "latitude": 51.8605034,
+                "longitude": 6.0477473
+            },
+            {
+                "latitude": 51.8598673,
+                "longitude": 6.047876
+            },
+            {
+                "latitude": 51.8566072,
+                "longitude": 6.0513093
+            },
+            {
+                "latitude": 51.852419,
+                "longitude": 6.0553862
+            },
+            {
+                "latitude": 51.8519684,
+                "longitude": 6.0543133
+            },
+            {
+                "latitude": 51.8484426,
+                "longitude": 6.0568024
+            },
+            {
+                "latitude": 51.8482276,
+                "longitude": 6.0606758
+            },
+            {
+                "latitude": 51.8475383,
+                "longitude": 6.0635082
+            },
+            {
+                "latitude": 51.8466635,
+                "longitude": 6.0638086
+            },
+            {
+                "latitude": 51.84669,
+                "longitude": 6.0656969
+            },
+            {
+                "latitude": 51.8453379,
+                "longitude": 6.0665123
+            },
+            {
+                "latitude": 51.8453379,
+                "longitude": 6.0673706
+            },
+            {
+                "latitude": 51.8448076,
+                "longitude": 6.0674993
+            },
+            {
+                "latitude": 51.8432168,
+                "longitude": 6.0662977
+            },
+            {
+                "latitude": 51.8423418,
+                "longitude": 6.0662548
+            },
+            {
+                "latitude": 51.8409366,
+                "longitude": 6.0646669
+            },
+            {
+                "latitude": 51.839054,
+                "longitude": 6.0608904
+            },
+            {
+                "latitude": 51.8374364,
+                "longitude": 6.0588304
+            },
+            {
+                "latitude": 51.8360575,
+                "longitude": 6.0562555
+            },
+            {
+                "latitude": 51.8320001,
+                "longitude": 6.0535089
+            },
+            {
+                "latitude": 51.8313371,
+                "longitude": 6.0592167
+            },
+            {
+                "latitude": 51.8302232,
+                "longitude": 6.0601608
+            },
+            {
+                "latitude": 51.8306166,
+                "longitude": 6.0631713
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "4,9",
+            "info": "Flat, paved",
+            "stage": 4,
+            "gender": "Female"
+        },
+        "name": "Stage 4 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8077497,
+            "longitude": 6.1272732
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,4",
+            "info": "Paved",
+            "stage": 6,
+            "gender": "Male"
+        },
+        "name": "Stage 6 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8306166,
+                "longitude": 6.0631713
+            },
+            {
+                "latitude": 51.8305301,
+                "longitude": 6.0653595
+            },
+            {
+                "latitude": 51.832413,
+                "longitude": 6.0821394
+            },
+            {
+                "latitude": 51.8333147,
+                "longitude": 6.0823969
+            },
+            {
+                "latitude": 51.8332882,
+                "longitude": 6.0840706
+            },
+            {
+                "latitude": 51.83297,
+                "longitude": 6.0840706
+            },
+            {
+                "latitude": 51.8314848,
+                "longitude": 6.0884909
+            },
+            {
+                "latitude": 51.8313522,
+                "longitude": 6.0893492
+            },
+            {
+                "latitude": 51.8307688,
+                "longitude": 6.0896925
+            },
+            {
+                "latitude": 51.8294957,
+                "longitude": 6.0892205
+            },
+            {
+                "latitude": 51.8282227,
+                "longitude": 6.0896067
+            },
+            {
+                "latitude": 51.8292305,
+                "longitude": 6.0929541
+            },
+            {
+                "latitude": 51.8297609,
+                "longitude": 6.096559
+            },
+            {
+                "latitude": 51.832413,
+                "longitude": 6.1002497
+            },
+            {
+                "latitude": 51.8283553,
+                "longitude": 6.1020092
+            },
+            {
+                "latitude": 51.8271617,
+                "longitude": 6.1035113
+            },
+            {
+                "latitude": 51.8248807,
+                "longitude": 6.1100773
+            },
+            {
+                "latitude": 51.8167634,
+                "longitude": 6.1185745
+            },
+            {
+                "latitude": 51.8151717,
+                "longitude": 6.1214928
+            },
+            {
+                "latitude": 51.8123063,
+                "longitude": 6.1232094
+            },
+            {
+                "latitude": 51.8096,
+                "longitude": 6.1217074
+            },
+            {
+                "latitude": 51.8075834,
+                "longitude": 6.1214928
+            },
+            {
+                "latitude": 51.8076099,
+                "longitude": 6.1245398
+            },
+            {
+                "latitude": 51.8077497,
+                "longitude": 6.1272732
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "9,9",
+            "info": "Flat, paved",
+            "stage": 5,
+            "gender": "Male"
+        },
+        "name": "Stage 5 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8265706,
+            "longitude": 6.2016842
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,3",
+            "info": "Bridge and overpass, paved",
+            "stage": 7,
+            "gender": "Male"
+        },
+        "name": "Stage 7 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8079969,
+                "longitude": 6.1274295
+            },
+            {
+                "latitude": 51.809191,
+                "longitude": 6.1279445
+            },
+            {
+                "latitude": 51.8113402,
+                "longitude": 6.1266999
+            },
+            {
+                "latitude": 51.8121361,
+                "longitude": 6.1308198
+            },
+            {
+                "latitude": 51.8113136,
+                "longitude": 6.132236
+            },
+            {
+                "latitude": 51.811579,
+                "longitude": 6.133266
+            },
+            {
+                "latitude": 51.8123749,
+                "longitude": 6.1339097
+            },
+            {
+                "latitude": 51.812826,
+                "longitude": 6.1355405
+            },
+            {
+                "latitude": 51.8152933,
+                "longitude": 6.134253
+            },
+            {
+                "latitude": 51.8172831,
+                "longitude": 6.1348968
+            },
+            {
+                "latitude": 51.8184238,
+                "longitude": 6.1367851
+            },
+            {
+                "latitude": 51.8188748,
+                "longitude": 6.1389308
+            },
+            {
+                "latitude": 51.8180259,
+                "longitude": 6.1503034
+            },
+            {
+                "latitude": 51.8173892,
+                "longitude": 6.158586
+            },
+            {
+                "latitude": 51.8173721,
+                "longitude": 6.1704793
+            },
+            {
+                "latitude": 51.8181414,
+                "longitude": 6.1735692
+            },
+            {
+                "latitude": 51.82411,
+                "longitude": 6.1821523
+            },
+            {
+                "latitude": 51.8265706,
+                "longitude": 6.2016842
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,4",
+            "info": "Paved",
+            "stage": 6,
+            "gender": "Male"
+        },
+        "name": "Stage 6 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8765436,
+            "longitude": 6.2586522
+        },
+        "type": "Point",
+        "description": {
+            "distance": "6,7",
+            "info": "Flat, paved",
+            "stage": 8,
+            "gender": "Female"
+        },
+        "name": "Stage 8 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8265706,
+                "longitude": 6.2016842
+            },
+            {
+                "latitude": 51.8263888,
+                "longitude": 6.2059344
+            },
+            {
+                "latitude": 51.822357,
+                "longitude": 6.2241305
+            },
+            {
+                "latitude": 51.8210837,
+                "longitude": 6.2256755
+            },
+            {
+                "latitude": 51.8417699,
+                "longitude": 6.2270488
+            },
+            {
+                "latitude": 51.8443152,
+                "longitude": 6.229967
+            },
+            {
+                "latitude": 51.8481329,
+                "longitude": 6.23958
+            },
+            {
+                "latitude": 51.8507839,
+                "longitude": 6.2412966
+            },
+            {
+                "latitude": 51.8606443,
+                "longitude": 6.24164
+            },
+            {
+                "latitude": 51.8661567,
+                "longitude": 6.2457598
+            },
+            {
+                "latitude": 51.8685947,
+                "longitude": 6.2558879
+            },
+            {
+                "latitude": 51.8687007,
+                "longitude": 6.2589778
+            },
+            {
+                "latitude": 51.8697606,
+                "longitude": 6.2598361
+            },
+            {
+                "latitude": 51.8719864,
+                "longitude": 6.2582911
+            },
+            {
+                "latitude": 51.8725163,
+                "longitude": 6.2552012
+            },
+            {
+                "latitude": 51.8764376,
+                "longitude": 6.2550296
+            },
+            {
+                "latitude": 51.8768682,
+                "longitude": 6.2555964
+            },
+            {
+                "latitude": 51.8769443,
+                "longitude": 6.2574032
+            },
+            {
+                "latitude": 51.8765983,
+                "longitude": 6.2575556
+            },
+            {
+                "latitude": 51.8765436,
+                "longitude": 6.2586522
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,3",
+            "info": "Bridge and overpass, paved",
+            "stage": 7,
+            "gender": "Male"
+        },
+        "name": "Stage 7 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8869632,
+            "longitude": 6.3056136
+        },
+        "type": "Point",
+        "description": {
+            "distance": "5,1",
+            "info": "Flat, paved",
+            "stage": 9,
+            "gender": "Female"
+        },
+        "name": "Stage 9 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8769177,
+                "longitude": 6.257567
+            },
+            {
+                "latitude": 51.8781496,
+                "longitude": 6.2638541
+            },
+            {
+                "latitude": 51.8785603,
+                "longitude": 6.2685748
+            },
+            {
+                "latitude": 51.8796995,
+                "longitude": 6.2706991
+            },
+            {
+                "latitude": 51.8798187,
+                "longitude": 6.271772
+            },
+            {
+                "latitude": 51.8790239,
+                "longitude": 6.2771578
+            },
+            {
+                "latitude": 51.8801737,
+                "longitude": 6.2784382
+            },
+            {
+                "latitude": 51.8813129,
+                "longitude": 6.2804982
+            },
+            {
+                "latitude": 51.882452,
+                "longitude": 6.2813994
+            },
+            {
+                "latitude": 51.8838295,
+                "longitude": 6.2813565
+            },
+            {
+                "latitude": 51.8841474,
+                "longitude": 6.2875363
+            },
+            {
+                "latitude": 51.8853129,
+                "longitude": 6.2913557
+            },
+            {
+                "latitude": 51.8866108,
+                "longitude": 6.2995097
+            },
+            {
+                "latitude": 51.8883855,
+                "longitude": 6.3019987
+            },
+            {
+                "latitude": 51.8865049,
+                "longitude": 6.3047453
+            },
+            {
+                "latitude": 51.8871406,
+                "longitude": 6.305432
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "6,7",
+            "info": "Flat, paved",
+            "stage": 8,
+            "gender": "Female"
+        },
+        "name": "Stage 8 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.8914526,
+            "longitude": 6.3834136
+        },
+        "type": "Point",
+        "description": {
+            "distance": "10,5",
+            "info": "Flat",
+            "stage": 10,
+            "gender": "Male"
+        },
+        "name": "Stage 10 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8875228,
+                "longitude": 6.3060617
+            },
+            {
+                "latitude": 51.8885823,
+                "longitude": 6.3071346
+            },
+            {
+                "latitude": 51.8882645,
+                "longitude": 6.3088512
+            },
+            {
+                "latitude": 51.8863309,
+                "longitude": 6.3118553
+            },
+            {
+                "latitude": 51.88596,
+                "longitude": 6.3124561
+            },
+            {
+                "latitude": 51.8856422,
+                "longitude": 6.3156748
+            },
+            {
+                "latitude": 51.8839469,
+                "longitude": 6.3220692
+            },
+            {
+                "latitude": 51.8846886,
+                "longitude": 6.3245153
+            },
+            {
+                "latitude": 51.8869666,
+                "longitude": 6.3470888
+            },
+            {
+                "latitude": 51.8869666,
+                "longitude": 6.3499212
+            },
+            {
+                "latitude": 51.8855892,
+                "longitude": 6.3587618
+            },
+            {
+                "latitude": 51.8859071,
+                "longitude": 6.362195
+            },
+            {
+                "latitude": 51.8883439,
+                "longitude": 6.3689756
+            },
+            {
+                "latitude": 51.8884499,
+                "longitude": 6.3736963
+            },
+            {
+                "latitude": 51.8886618,
+                "longitude": 6.3754129
+            },
+            {
+                "latitude": 51.8886618,
+                "longitude": 6.3765287
+            },
+            {
+                "latitude": 51.891999,
+                "longitude": 6.3777304
+            },
+            {
+                "latitude": 51.8944356,
+                "longitude": 6.3791895
+            },
+            {
+                "latitude": 51.8934292,
+                "longitude": 6.3831377
+            },
+            {
+                "latitude": 51.8923168,
+                "longitude": 6.383481
+            },
+            {
+                "latitude": 51.8920875,
+                "longitude": 6.3830806
+            },
+            {
+                "latitude": 51.8916372,
+                "longitude": 6.3831879
+            },
+            {
+                "latitude": 51.891571,
+                "longitude": 6.3834239
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "5,1",
+            "info": "Flat, paved",
+            "stage": 9,
+            "gender": "Female"
+        },
+        "name": "Stage 9 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.9364629,
+            "longitude": 6.4740348
+        },
+        "type": "Point",
+        "description": {
+            "distance": "3,8",
+            "info": "Flat, paved",
+            "stage": 11,
+            "gender": "Female"
+        },
+        "name": "Stage 11 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.8923168,
+                "longitude": 6.383481
+            },
+            {
+                "latitude": 51.8917718,
+                "longitude": 6.3841539
+            },
+            {
+                "latitude": 51.8909243,
+                "longitude": 6.3844114
+            },
+            {
+                "latitude": 51.8899178,
+                "longitude": 6.3860422
+            },
+            {
+                "latitude": 51.8914805,
+                "longitude": 6.3890034
+            },
+            {
+                "latitude": 51.892328,
+                "longitude": 6.3920504
+            },
+            {
+                "latitude": 51.8920632,
+                "longitude": 6.3999039
+            },
+            {
+                "latitude": 51.8939171,
+                "longitude": 6.4083153
+            },
+            {
+                "latitude": 51.8937052,
+                "longitude": 6.4131218
+            },
+            {
+                "latitude": 51.8931755,
+                "longitude": 6.4144951
+            },
+            {
+                "latitude": 51.8973069,
+                "longitude": 6.4107185
+            },
+            {
+                "latitude": 51.9018615,
+                "longitude": 6.4235931
+            },
+            {
+                "latitude": 51.9026029,
+                "longitude": 6.4237648
+            },
+            {
+                "latitude": 51.9054626,
+                "longitude": 6.4296013
+            },
+            {
+                "latitude": 51.9096987,
+                "longitude": 6.4314896
+            },
+            {
+                "latitude": 51.9111812,
+                "longitude": 6.4337212
+            },
+            {
+                "latitude": 51.917958,
+                "longitude": 6.4462525
+            },
+            {
+                "latitude": 51.9282271,
+                "longitude": 6.4570671
+            },
+            {
+                "latitude": 51.9291798,
+                "longitude": 6.4615303
+            },
+            {
+                "latitude": 51.931826,
+                "longitude": 6.4613587
+            },
+            {
+                "latitude": 51.9328844,
+                "longitude": 6.4586121
+            },
+            {
+                "latitude": 51.9343662,
+                "longitude": 6.4594704
+            },
+            {
+                "latitude": 51.9355305,
+                "longitude": 6.462217
+            },
+            {
+                "latitude": 51.9380705,
+                "longitude": 6.4641052
+            },
+            {
+                "latitude": 51.9388113,
+                "longitude": 6.4708
+            },
+            {
+                "latitude": 51.9365888,
+                "longitude": 6.4709717
+            },
+            {
+                "latitude": 51.9364629,
+                "longitude": 6.4740348
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "10,5",
+            "info": "Flat",
+            "stage": 10,
+            "gender": "Male"
+        },
+        "name": "Stage 10 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.9396424,
+            "longitude": 6.4846847
+        },
+        "type": "Point",
+        "description": {
+            "distance": "4,8",
+            "info": "Flat, 0,7km unpaved",
+            "stage": 12,
+            "gender": "Female"
+        },
+        "name": "Stage 12 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.9364629,
+                "longitude": 6.4740348
+            },
+            {
+                "latitude": 51.936269,
+                "longitude": 6.4743314
+            },
+            {
+                "latitude": 51.9359978,
+                "longitude": 6.4765737
+            },
+            {
+                "latitude": 51.9361499,
+                "longitude": 6.4770565
+            },
+            {
+                "latitude": 51.937367,
+                "longitude": 6.4782259
+            },
+            {
+                "latitude": 51.9386105,
+                "longitude": 6.4801249
+            },
+            {
+                "latitude": 51.9392786,
+                "longitude": 6.4772925
+            },
+            {
+                "latitude": 51.9392918,
+                "longitude": 6.4760265
+            },
+            {
+                "latitude": 51.9396424,
+                "longitude": 6.4756081
+            },
+            {
+                "latitude": 51.9402906,
+                "longitude": 6.4775178
+            },
+            {
+                "latitude": 51.9406279,
+                "longitude": 6.478183
+            },
+            {
+                "latitude": 51.9410644,
+                "longitude": 6.4798353
+            },
+            {
+                "latitude": 51.9415009,
+                "longitude": 6.4809511
+            },
+            {
+                "latitude": 51.9414745,
+                "longitude": 6.4818523
+            },
+            {
+                "latitude": 51.9397548,
+                "longitude": 6.4818094
+            },
+            {
+                "latitude": 51.9396424,
+                "longitude": 6.4846847
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "3,8",
+            "info": "Flat, paved",
+            "stage": 11,
+            "gender": "Female"
+        },
+        "name": "Stage 11 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.9558601,
+            "longitude": 6.5256889
+        },
+        "type": "Point",
+        "description": {
+            "distance": "5,2",
+            "info": "Flat, 0,4km unpaved",
+            "stage": 13,
+            "gender": "Female"
+        },
+        "name": "Stage 13 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.9396424,
+                "longitude": 6.4846847
+            },
+            {
+                "latitude": 51.9428197,
+                "longitude": 6.4851234
+            },
+            {
+                "latitude": 51.9426609,
+                "longitude": 6.48787
+            },
+            {
+                "latitude": 51.9408619,
+                "longitude": 6.487827
+            },
+            {
+                "latitude": 51.9408619,
+                "longitude": 6.4885137
+            },
+            {
+                "latitude": 51.9422376,
+                "longitude": 6.4884279
+            },
+            {
+                "latitude": 51.9448566,
+                "longitude": 6.495466
+            },
+            {
+                "latitude": 51.9445392,
+                "longitude": 6.4976976
+            },
+            {
+                "latitude": 51.9451476,
+                "longitude": 6.4977834
+            },
+            {
+                "latitude": 51.9450154,
+                "longitude": 6.4985559
+            },
+            {
+                "latitude": 51.9461793,
+                "longitude": 6.5033195
+            },
+            {
+                "latitude": 51.9510993,
+                "longitude": 6.5188548
+            },
+            {
+                "latitude": 51.9548022,
+                "longitude": 6.5190265
+            },
+            {
+                "latitude": 51.9564948,
+                "longitude": 6.5215585
+            },
+            {
+                "latitude": 51.9576849,
+                "longitude": 6.5244338
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "4,8",
+            "info": "Flat, 0,7km unpaved",
+            "stage": 12,
+            "gender": "Female"
+        },
+        "name": "Stage 12 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 51.9647212,
+            "longitude": 6.4921693
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,6",
+            "info": "Flat, 0,5km unpaved",
+            "stage": 14,
+            "gender": "Male"
+        },
+        "name": "Stage 14 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.9576849,
+                "longitude": 6.5244338
+            },
+            {
+                "latitude": 51.9623655,
+                "longitude": 6.533042
+            },
+            {
+                "latitude": 51.9637406,
+                "longitude": 6.5306387
+            },
+            {
+                "latitude": 51.9577377,
+                "longitude": 6.518322
+            },
+            {
+                "latitude": 51.9589013,
+                "longitude": 6.5178499
+            },
+            {
+                "latitude": 51.9604616,
+                "longitude": 6.5163479
+            },
+            {
+                "latitude": 51.9608847,
+                "longitude": 6.5166054
+            },
+            {
+                "latitude": 51.9626035,
+                "longitude": 6.5149746
+            },
+            {
+                "latitude": 51.9628151,
+                "longitude": 6.510726
+            },
+            {
+                "latitude": 51.9641901,
+                "longitude": 6.5055332
+            },
+            {
+                "latitude": 51.9641637,
+                "longitude": 6.5047608
+            },
+            {
+                "latitude": 51.9653271,
+                "longitude": 6.5021858
+            },
+            {
+                "latitude": 51.9652742,
+                "longitude": 6.5014134
+            },
+            {
+                "latitude": 51.965618,
+                "longitude": 6.4998255
+            },
+            {
+                "latitude": 51.9659882,
+                "longitude": 6.5002117
+            },
+            {
+                "latitude": 51.9673631,
+                "longitude": 6.4946757
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "5,2",
+            "info": "Flat, 0,4km unpaved",
+            "stage": 13,
+            "gender": "Female"
+        },
+        "name": "Stage 13 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.0288417,
+            "longitude": 6.3943244
+        },
+        "type": "Point",
+        "description": {
+            "distance": "9,4",
+            "info": "Flat, 1,7km unpaved",
+            "stage": 15,
+            "gender": "Male"
+        },
+        "name": "Stage 15 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 51.9673631,
+                "longitude": 6.4946757
+            },
+            {
+                "latitude": 51.9721107,
+                "longitude": 6.4869516
+            },
+            {
+                "latitude": 51.9741199,
+                "longitude": 6.4807718
+            },
+            {
+                "latitude": 51.9758118,
+                "longitude": 6.4757936
+            },
+            {
+                "latitude": 51.9760233,
+                "longitude": 6.4725321
+            },
+            {
+                "latitude": 51.9786668,
+                "longitude": 6.4663523
+            },
+            {
+                "latitude": 51.9797241,
+                "longitude": 6.4601724
+            },
+            {
+                "latitude": 51.9797241,
+                "longitude": 6.4550226
+            },
+            {
+                "latitude": 51.9822616,
+                "longitude": 6.4524477
+            },
+            {
+                "latitude": 51.9860676,
+                "longitude": 6.4383715
+            },
+            {
+                "latitude": 51.987442,
+                "longitude": 6.4378565
+            },
+            {
+                "latitude": 52.000443,
+                "longitude": 6.4047258
+            },
+            {
+                "latitude": 52.0048815,
+                "longitude": 6.3683336
+            },
+            {
+                "latitude": 52.0038248,
+                "longitude": 6.3674753
+            },
+            {
+                "latitude": 52.0055156,
+                "longitude": 6.3624971
+            },
+            {
+                "latitude": 52.0098479,
+                "longitude": 6.3628404
+            },
+            {
+                "latitude": 52.0135459,
+                "longitude": 6.3552873
+            },
+            {
+                "latitude": 52.0128064,
+                "longitude": 6.3528841
+            },
+            {
+                "latitude": 52.0137573,
+                "longitude": 6.3523691
+            },
+            {
+                "latitude": 52.0152364,
+                "longitude": 6.3551157
+            },
+            {
+                "latitude": 52.0191452,
+                "longitude": 6.357004
+            },
+            {
+                "latitude": 52.0237931,
+                "longitude": 6.3635271
+            },
+            {
+                "latitude": 52.0290743,
+                "longitude": 6.388933
+            },
+            {
+                "latitude": 52.0288417,
+                "longitude": 6.3943244
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,6",
+            "info": "Flat, 0,5km unpaved",
+            "stage": 14,
+            "gender": "Male"
+        },
+        "name": "Stage 14 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.0689871,
+            "longitude": 6.3771277
+        },
+        "type": "Point",
+        "description": {
+            "distance": "6,4",
+            "info": "Flat, 0,9km unpaved",
+            "stage": 16,
+            "gender": "Male"
+        },
+        "name": "Stage 16 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.0288417,
+                "longitude": 6.3943244
+            },
+            {
+                "latitude": 52.0430593,
+                "longitude": 6.3976395
+            },
+            {
+                "latitude": 52.0537219,
+                "longitude": 6.3854516
+            },
+            {
+                "latitude": 52.0541442,
+                "longitude": 6.3868249
+            },
+            {
+                "latitude": 52.055622,
+                "longitude": 6.3852799
+            },
+            {
+                "latitude": 52.0561497,
+                "longitude": 6.3840783
+            },
+            {
+                "latitude": 52.0580496,
+                "longitude": 6.3851083
+            },
+            {
+                "latitude": 52.0593162,
+                "longitude": 6.3813317
+            },
+            {
+                "latitude": 52.0697639,
+                "longitude": 6.3741219
+            },
+            {
+                "latitude": 52.0689871,
+                "longitude": 6.3771277
+            },
+            {
+                "latitude": 52.0697639,
+                "longitude": 6.3768685
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "9,4",
+            "info": "Flat, 1,7km unpaved",
+            "stage": 15,
+            "gender": "Male"
+        },
+        "name": "Stage 15 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.1182038,
+            "longitude": 6.4263894
+        },
+        "type": "Point",
+        "description": {
+            "distance": "3,6",
+            "info": "Flat, 1,2km unpaved",
+            "stage": 17,
+            "gender": "Male"
+        },
+        "name": "Stage 17 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.0697639,
+                "longitude": 6.3768685
+            },
+            {
+                "latitude": 52.0688872,
+                "longitude": 6.3788073
+            },
+            {
+                "latitude": 52.0708393,
+                "longitude": 6.3836996
+            },
+            {
+                "latitude": 52.0731079,
+                "longitude": 6.3953726
+            },
+            {
+                "latitude": 52.0793327,
+                "longitude": 6.3871328
+            },
+            {
+                "latitude": 52.0811262,
+                "longitude": 6.3897936
+            },
+            {
+                "latitude": 52.0869279,
+                "longitude": 6.3951151
+            },
+            {
+                "latitude": 52.0878245,
+                "longitude": 6.3944284
+            },
+            {
+                "latitude": 52.088932,
+                "longitude": 6.3962309
+            },
+            {
+                "latitude": 52.0898813,
+                "longitude": 6.3965742
+            },
+            {
+                "latitude": 52.0903559,
+                "longitude": 6.3962309
+            },
+            {
+                "latitude": 52.0924653,
+                "longitude": 6.3970892
+            },
+            {
+                "latitude": 52.0939945,
+                "longitude": 6.3988916
+            },
+            {
+                "latitude": 52.0968298,
+                "longitude": 6.3925808
+            },
+            {
+                "latitude": 52.097568,
+                "longitude": 6.3877742
+            },
+            {
+                "latitude": 52.1048965,
+                "longitude": 6.3997047
+            },
+            {
+                "latitude": 52.1068471,
+                "longitude": 6.4047687
+            },
+            {
+                "latitude": 52.1172837,
+                "longitude": 6.4126651
+            },
+            {
+                "latitude": 52.1182851,
+                "longitude": 6.4140384
+            },
+            {
+                "latitude": 52.1194709,
+                "longitude": 6.4148538
+            },
+            {
+                "latitude": 52.1181006,
+                "longitude": 6.4187591
+            },
+            {
+                "latitude": 52.1171256,
+                "longitude": 6.4202826
+            },
+            {
+                "latitude": 52.1173101,
+                "longitude": 6.4231794
+            },
+            {
+                "latitude": 52.1167303,
+                "longitude": 6.4253895
+            },
+            {
+                "latitude": 52.1182038,
+                "longitude": 6.4263894
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "6,4",
+            "info": "Flat, 0,9km unpaved",
+            "stage": 16,
+            "gender": "Male"
+        },
+        "name": "Stage 16 route\n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.1182038,
+                "longitude": 6.4263894
+            },
+            {
+                "latitude": 52.1169083,
+                "longitude": 6.4295797
+            },
+            {
+                "latitude": 52.1193853,
+                "longitude": 6.4333133
+            },
+            {
+                "latitude": 52.1209927,
+                "longitude": 6.4328412
+            },
+            {
+                "latitude": 52.122073,
+                "longitude": 6.4331845
+            },
+            {
+                "latitude": 52.1226263,
+                "longitude": 6.4348153
+            },
+            {
+                "latitude": 52.1234958,
+                "longitude": 6.4408664
+            },
+            {
+                "latitude": 52.1248396,
+                "longitude": 6.4422397
+            },
+            {
+                "latitude": 52.1254192,
+                "longitude": 6.4438705
+            },
+            {
+                "latitude": 52.1238384,
+                "longitude": 6.4472608
+            },
+            {
+                "latitude": 52.1246024,
+                "longitude": 6.4481191
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "3,6",
+            "info": "Flat, 1,2km unpaved",
+            "stage": 17,
+            "gender": "Male"
+        },
+        "name": "Stage 17 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.1242208,
+            "longitude": 6.4486221
+        },
+        "type": "Point",
+        "description": {
+            "distance": "8,0",
+            "info": "Flat, paved",
+            "stage": 18,
+            "gender": "Male"
+        },
+        "name": "Stage 18 \n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.1592302,
+            "longitude": 6.4576609
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,2",
+            "info": "Flat, 0,6km unpaved",
+            "stage": 19,
+            "gender": "Male"
+        },
+        "name": "Stage 19 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.1246024,
+                "longitude": 6.4481191
+            },
+            {
+                "latitude": 52.1266216,
+                "longitude": 6.4469483
+            },
+            {
+                "latitude": 52.1245666,
+                "longitude": 6.4446308
+            },
+            {
+                "latitude": 52.1254192,
+                "longitude": 6.4438705
+            },
+            {
+                "latitude": 52.1286766,
+                "longitude": 6.4459183
+            },
+            {
+                "latitude": 52.1333658,
+                "longitude": 6.4462616
+            },
+            {
+                "latitude": 52.1353678,
+                "longitude": 6.4456608
+            },
+            {
+                "latitude": 52.1366322,
+                "longitude": 6.44609
+            },
+            {
+                "latitude": 52.1396876,
+                "longitude": 6.4451458
+            },
+            {
+                "latitude": 52.1430062,
+                "longitude": 6.4467766
+            },
+            {
+                "latitude": 52.1452184,
+                "longitude": 6.4496949
+            },
+            {
+                "latitude": 52.1464298,
+                "longitude": 6.4512398
+            },
+            {
+                "latitude": 52.1474832,
+                "longitude": 6.4490082
+            },
+            {
+                "latitude": 52.1489579,
+                "longitude": 6.4478066
+            },
+            {
+                "latitude": 52.1498005,
+                "longitude": 6.4454892
+            },
+            {
+                "latitude": 52.1506432,
+                "longitude": 6.4469483
+            },
+            {
+                "latitude": 52.1515911,
+                "longitude": 6.4492657
+            },
+            {
+                "latitude": 52.1582262,
+                "longitude": 6.4548447
+            },
+            {
+                "latitude": 52.1611749,
+                "longitude": 6.4557888
+            },
+            {
+                "latitude": 52.1608063,
+                "longitude": 6.4587929
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "8,0",
+            "info": "Flat, paved",
+            "stage": 18,
+            "gender": "Male"
+        },
+        "name": "Stage 18 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.1457966,
+            "longitude": 6.5728145
+        },
+        "type": "Point",
+        "description": {
+            "distance": "6,0",
+            "info": "Flat, paved",
+            "stage": 20,
+            "gender": "Female"
+        },
+        "name": "Stage 20 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.1608063,
+                "longitude": 6.4587929
+            },
+            {
+                "latitude": 52.1599218,
+                "longitude": 6.4648838
+            },
+            {
+                "latitude": 52.1386446,
+                "longitude": 6.5060826
+            },
+            {
+                "latitude": 52.137591,
+                "longitude": 6.5090008
+            },
+            {
+                "latitude": 52.1295829,
+                "longitude": 6.5225621
+            },
+            {
+                "latitude": 52.1288453,
+                "longitude": 6.5278836
+            },
+            {
+                "latitude": 52.1307421,
+                "longitude": 6.5369816
+            },
+            {
+                "latitude": 52.1327442,
+                "longitude": 6.5407582
+            },
+            {
+                "latitude": 52.1346408,
+                "longitude": 6.5409298
+            },
+            {
+                "latitude": 52.135273,
+                "longitude": 6.5441914
+            },
+            {
+                "latitude": 52.1351677,
+                "longitude": 6.5484829
+            },
+            {
+                "latitude": 52.1378017,
+                "longitude": 6.5488263
+            },
+            {
+                "latitude": 52.1428587,
+                "longitude": 6.557066
+            },
+            {
+                "latitude": 52.1428587,
+                "longitude": 6.5611859
+            },
+            {
+                "latitude": 52.1458084,
+                "longitude": 6.5699406
+            },
+            {
+                "latitude": 52.1457966,
+                "longitude": 6.5728145
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,2",
+            "info": "Flat, 0,6km unpaved",
+            "stage": 19,
+            "gender": "Male"
+        },
+        "name": "Stage 19 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.1774652,
+            "longitude": 6.7016372
+        },
+        "type": "Point",
+        "description": {
+            "distance": "8,9",
+            "info": "Flat, 2,5km unpaved",
+            "stage": 22,
+            "gender": "Male"
+        },
+        "name": "Stage 22  \n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.1411861,
+            "longitude": 6.6632659
+        },
+        "type": "Point",
+        "description": {
+            "distance": "8,8",
+            "info": "Flat, 0,5km unpaved",
+            "stage": 21,
+            "gender": "Male"
+        },
+        "name": "Stage 21  \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.1457966,
+                "longitude": 6.5728145
+            },
+            {
+                "latitude": 52.1446907,
+                "longitude": 6.5774685
+            },
+            {
+                "latitude": 52.1406874,
+                "longitude": 6.5832192
+            },
+            {
+                "latitude": 52.1362624,
+                "longitude": 6.5867383
+            },
+            {
+                "latitude": 52.1344712,
+                "longitude": 6.5932614
+            },
+            {
+                "latitude": 52.1369473,
+                "longitude": 6.595493
+            },
+            {
+                "latitude": 52.1384223,
+                "longitude": 6.6003853
+            },
+            {
+                "latitude": 52.1400027,
+                "longitude": 6.6107708
+            },
+            {
+                "latitude": 52.13995,
+                "longitude": 6.617809
+            },
+            {
+                "latitude": 52.138475,
+                "longitude": 6.6235596
+            },
+            {
+                "latitude": 52.1353668,
+                "longitude": 6.6280228
+            },
+            {
+                "latitude": 52.1347346,
+                "longitude": 6.6496521
+            },
+            {
+                "latitude": 52.1347346,
+                "longitude": 6.6574627
+            },
+            {
+                "latitude": 52.1392125,
+                "longitude": 6.6614109
+            },
+            {
+                "latitude": 52.1398973,
+                "longitude": 6.6623551
+            },
+            {
+                "latitude": 52.1411861,
+                "longitude": 6.6632659
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "6,0",
+            "info": "Flat, paved",
+            "stage": 20,
+            "gender": "Female"
+        },
+        "name": "Stage 20 route\n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.1425467,
+                "longitude": 6.6642205
+            },
+            {
+                "latitude": 52.1439689,
+                "longitude": 6.6648213
+            },
+            {
+                "latitude": 52.1498152,
+                "longitude": 6.6655938
+            },
+            {
+                "latitude": 52.1530803,
+                "longitude": 6.6693704
+            },
+            {
+                "latitude": 52.1535543,
+                "longitude": 6.6704003
+            },
+            {
+                "latitude": 52.1527117,
+                "longitude": 6.6733186
+            },
+            {
+                "latitude": 52.1529223,
+                "longitude": 6.6770093
+            },
+            {
+                "latitude": 52.1535543,
+                "longitude": 6.6780393
+            },
+            {
+                "latitude": 52.1598732,
+                "longitude": 6.6786401
+            },
+            {
+                "latitude": 52.1661385,
+                "longitude": 6.6828458
+            },
+            {
+                "latitude": 52.1701394,
+                "longitude": 6.6978661
+            },
+            {
+                "latitude": 52.1712975,
+                "longitude": 6.6999261
+            },
+            {
+                "latitude": 52.1730346,
+                "longitude": 6.708595
+            },
+            {
+                "latitude": 52.1775613,
+                "longitude": 6.7000119
+            },
+            {
+                "latitude": 52.1780876,
+                "longitude": 6.7020718
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "8,8",
+            "info": "Flat, 0,5km unpaved",
+            "stage": 21,
+            "gender": "Male"
+        },
+        "name": "Stage 21 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.2070276,
+            "longitude": 6.8171243
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,3",
+            "info": "Flat, 1,0km unpaved",
+            "stage": 23,
+            "gender": "Female"
+        },
+        "name": "Stage 23 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.1780831,
+                "longitude": 6.703085
+            },
+            {
+                "latitude": 52.1799252,
+                "longitude": 6.7085782
+            },
+            {
+                "latitude": 52.1840828,
+                "longitude": 6.7085782
+            },
+            {
+                "latitude": 52.1891871,
+                "longitude": 6.7119256
+            },
+            {
+                "latitude": 52.1916075,
+                "longitude": 6.7176763
+            },
+            {
+                "latitude": 52.1866087,
+                "longitude": 6.722397
+            },
+            {
+                "latitude": 52.1891871,
+                "longitude": 6.7256585
+            },
+            {
+                "latitude": 52.1881347,
+                "longitude": 6.726946
+            },
+            {
+                "latitude": 52.1886609,
+                "longitude": 6.7519227
+            },
+            {
+                "latitude": 52.1917654,
+                "longitude": 6.7635957
+            },
+            {
+                "latitude": 52.1913971,
+                "longitude": 6.7653123
+            },
+            {
+                "latitude": 52.1881873,
+                "longitude": 6.7671147
+            },
+            {
+                "latitude": 52.1809778,
+                "longitude": 6.7629949
+            },
+            {
+                "latitude": 52.1773989,
+                "longitude": 6.7750112
+            },
+            {
+                "latitude": 52.1759251,
+                "longitude": 6.7785302
+            },
+            {
+                "latitude": 52.1755567,
+                "longitude": 6.7845384
+            },
+            {
+                "latitude": 52.1776094,
+                "longitude": 6.7902032
+            },
+            {
+                "latitude": 52.1897133,
+                "longitude": 6.8160382
+            },
+            {
+                "latitude": 52.1933438,
+                "longitude": 6.8193856
+            },
+            {
+                "latitude": 52.1966584,
+                "longitude": 6.8199006
+            },
+            {
+                "latitude": 52.2000779,
+                "longitude": 6.818699
+            },
+            {
+                "latitude": 52.2067058,
+                "longitude": 6.8234197
+            },
+            {
+                "latitude": 52.2080207,
+                "longitude": 6.8182698
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "8,9",
+            "info": "Flat, 2,5km unpaved",
+            "stage": 22,
+            "gender": "Male"
+        },
+        "name": "Stage 22 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.2215372,
+            "longitude": 6.8936619
+        },
+        "type": "Point",
+        "description": {
+            "distance": "7,7",
+            "info": "Flat, 0,5km unpaved",
+            "stage": 24,
+            "gender": "Both"
+        },
+        "name": "Stage 24 \n"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.2080207,
+                "longitude": 6.8182698
+            },
+            {
+                "latitude": 52.2071249,
+                "longitude": 6.8241766
+            },
+            {
+                "latitude": 52.2108592,
+                "longitude": 6.8272665
+            },
+            {
+                "latitude": 52.2143302,
+                "longitude": 6.8337038
+            },
+            {
+                "latitude": 52.2172226,
+                "longitude": 6.8446901
+            },
+            {
+                "latitude": 52.219063,
+                "longitude": 6.8631437
+            },
+            {
+                "latitude": 52.220325,
+                "longitude": 6.8671777
+            },
+            {
+                "latitude": 52.2206931,
+                "longitude": 6.8753317
+            },
+            {
+                "latitude": 52.2219025,
+                "longitude": 6.8931844
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,3",
+            "info": "Flat, 1,0km unpaved",
+            "stage": 23,
+            "gender": "Female"
+        },
+        "name": "Stage 23 route\n"
+    },
+    {
+        "coordinates": {
+            "latitude": 52.2387387,
+            "longitude": 6.8505927
+        },
+        "type": "Point",
+        "description": {
+            "distance": 0,
+            "info": "Finish",
+            "stage": 25,
+            "gender": "Both"
+        },
+        "name": "Finish"
+    },
+    {
+        "coordinates": [
+            {
+                "latitude": 52.2219025,
+                "longitude": 6.8931844
+            },
+            {
+                "latitude": 52.2231036,
+                "longitude": 6.8927169
+            },
+            {
+                "latitude": 52.2236031,
+                "longitude": 6.8887258
+            },
+            {
+                "latitude": 52.2234454,
+                "longitude": 6.8874383
+            },
+            {
+                "latitude": 52.2297806,
+                "longitude": 6.8718172
+            },
+            {
+                "latitude": 52.2381386,
+                "longitude": 6.8499303
+            },
+            {
+                "latitude": 52.2387387,
+                "longitude": 6.8505927
+            }
+        ],
+        "type": "LineString",
+        "description": {
+            "distance": "7,7",
+            "info": "Flat, 0,5km unpaved",
+            "stage": 24,
+            "gender": "Both"
+        },
+        "name": "Stage 24/25 route\n"
+    }
+]
