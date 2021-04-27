@@ -24,9 +24,19 @@ https://user-images.githubusercontent.com/31566289/116298960-63bd8180-a79d-11eb-
 
 ### Bata bottle: a fun water reminder
 
-This is an extra feature for novice runners that sends a notification reminded to drink some water. The duration after which a notification is sent is calculated using height and weight provided by the user. Below is a short demo showing the feature.
+This is an extra feature for novice runners that sends a notification reminding to drink some water. The duration after which a notification is sent is calculated using height and weight provided by the user. Below is a short demo showing the feature.
 
 https://user-images.githubusercontent.com/31566289/116299511-155cb280-a79e-11eb-9114-bd88e46dd7e4.mp4
+
+
+### Personal and race information
+
+This is the final tab that displays information about the participant as well as information about the race. Sort of like a profile page.  Below is a short demo displaying the features in this tab.
+
+https://user-images.githubusercontent.com/31566289/116299916-8d2add00-a79e-11eb-9aa9-c8a1f2b10cae.mp4
+
+
+
 
 
 
