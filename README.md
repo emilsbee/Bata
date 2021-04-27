@@ -6,6 +6,7 @@ This application is meant to be a general purpose app for the participants of th
 ### Login system
 
 The application has a simple login system whereby each participant receives login information that they can use to login to the app during the race. When the race is over, login information becomes invalid. 
+
 https://user-images.githubusercontent.com/31566289/116297349-79ca4280-a79b-11eb-9f9a-c7597f825867.mp4
 
 
