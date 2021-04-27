@@ -22,6 +22,12 @@ The app includes a simulation of a chat with a volunteer. It is a simulation bec
 https://user-images.githubusercontent.com/31566289/116298960-63bd8180-a79d-11eb-927e-79790ccd5ba8.mp4
 
 
+### Bata bottle: a fun water reminder
+
+This is an extra feature for novice runners that sends a notification reminded to drink some water. The duration after which a notification is sent is calculated using height and weight provided by the user. Below is a short demo showing the feature.
+
+https://user-images.githubusercontent.com/31566289/116299511-155cb280-a79e-11eb-9114-bd88e46dd7e4.mp4
+
 
 
 
